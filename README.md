@@ -1,4 +1,4 @@
-# The Joy of Computing using Python - NPTEL Course Code
+# The Joy of Computing using Python - NPTEL 
 
 ![Course Banner](Outputs/External/user_image.png)
 
