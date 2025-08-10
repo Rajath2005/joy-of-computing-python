@@ -1,10 +1,21 @@
-# The Joy of Computing using Python - NPTEL 
+# The Joy of Computing using Python - NPTEL
+
+<p align="center">
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/481697e6-b346-45ff-862b-d139c5f7881f.png" alt="The Joy of Computing Logo" width="200"/>
+</p>
 
 ![Course Banner](Outputs/External/user_image.png)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Course](https://img.shields.io/badge/NPTEL-NOC25--CS103-green.svg)](https://nptel.ac.in/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-green.svg)](https://matplotlib.org/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-brightgreen.svg)](https://www.python.org/)
+
 
 This repository contains all practical Python programs and implementations developed during the NPTEL course **"The Joy of Computing using Python" (NOC25-CS103)**. The focus is on hands-on coding exercises, assignments, and problem-solving implementations covered throughout the course.
 
