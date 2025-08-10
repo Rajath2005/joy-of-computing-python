@@ -1,5 +1,7 @@
 # The Joy of Computing using Python - NPTEL Course Code
 
+![Course Banner](Outputs/External/user_image.png)
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Course](https://img.shields.io/badge/NPTEL-NOC25--CS103-green.svg)](https://nptel.ac.in/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
